@@ -1,0 +1,5 @@
+[package]
+name = "manifest"
+version = "0.1.0"
+authors = ["gentoo90 <gentoo90@gmail.com>"]
+build = "build.rs"
